@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Meadowiee
-- 🌱 I’m currently learning as computer science student.
+- 🌱 I’m currently learning as computer science student at Universitas Lambung Mangkurat
 - 📫 How to reach me: shafinaardelia526@gmail.com
 
 <!---
